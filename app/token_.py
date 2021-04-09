@@ -5,7 +5,7 @@ from fastapi.security import OAuth2PasswordBearer
 import schemas
 
 # Secret key for encryption 
-SECRET_KEY = "09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7"
+SECRET_KEY = "0c4bf509d6a4cf4a2729dc51dd2ceeb1f5888b86baaa1916c4b26779535f6659"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
